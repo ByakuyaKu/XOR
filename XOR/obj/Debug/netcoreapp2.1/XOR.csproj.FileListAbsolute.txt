@@ -1,0 +1,11 @@
+D:\GERASKIN\XOR\XOR\bin\Debug\netcoreapp2.1\XOR.deps.json
+D:\GERASKIN\XOR\XOR\bin\Debug\netcoreapp2.1\XOR.runtimeconfig.json
+D:\GERASKIN\XOR\XOR\bin\Debug\netcoreapp2.1\XOR.runtimeconfig.dev.json
+D:\GERASKIN\XOR\XOR\bin\Debug\netcoreapp2.1\XOR.dll
+D:\GERASKIN\XOR\XOR\bin\Debug\netcoreapp2.1\XOR.pdb
+D:\GERASKIN\XOR\XOR\obj\Debug\netcoreapp2.1\XOR.csprojAssemblyReference.cache
+D:\GERASKIN\XOR\XOR\obj\Debug\netcoreapp2.1\XOR.csproj.CoreCompileInputs.cache
+D:\GERASKIN\XOR\XOR\obj\Debug\netcoreapp2.1\XOR.AssemblyInfoInputs.cache
+D:\GERASKIN\XOR\XOR\obj\Debug\netcoreapp2.1\XOR.AssemblyInfo.cs
+D:\GERASKIN\XOR\XOR\obj\Debug\netcoreapp2.1\XOR.dll
+D:\GERASKIN\XOR\XOR\obj\Debug\netcoreapp2.1\XOR.pdb
